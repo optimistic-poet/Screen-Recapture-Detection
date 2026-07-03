@@ -1,0 +1,19 @@
+# Dataset
+dataset/
+
+# Analysis output
+analysis/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Trained Models
+*.pkl
+
+# Generated CSVs
+feature_ranking.csv
+feature_selection_results.csv
